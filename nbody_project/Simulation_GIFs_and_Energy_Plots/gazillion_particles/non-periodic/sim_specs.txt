@@ -1,6 +1,6 @@
 nparticles = 100 000
 dt = 0.001
-ranges = [ x:(0,100) , y:(0,100) ]
+ranges = [ x:(0,100) , y:(0,100) ] in units of distance
 grid = (500,500)
-softening = 2*grid_resolution = 1 unit of distance
+softening = 2*grid_resolution = 0.4 unit of distance
 boundry = non-periodic
