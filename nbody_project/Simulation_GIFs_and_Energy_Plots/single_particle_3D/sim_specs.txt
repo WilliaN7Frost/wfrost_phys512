@@ -1,0 +1,6 @@
+nparticles = 1
+dt = 1e-5
+ranges = [ x:(0,100) , y:(0,100) , z:(0,100) ]
+grid = (200,200,200)
+softening = 2*grid_resolution = 1 unit of distance
+boundry = non-periodic
